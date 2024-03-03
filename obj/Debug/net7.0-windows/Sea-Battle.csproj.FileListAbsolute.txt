@@ -1,0 +1,16 @@
+C:\Users\Pain\source\repos\Sea-Battle\bin\Debug\net7.0-windows\Sea-Battle.exe
+C:\Users\Pain\source\repos\Sea-Battle\bin\Debug\net7.0-windows\Sea-Battle.deps.json
+C:\Users\Pain\source\repos\Sea-Battle\bin\Debug\net7.0-windows\Sea-Battle.runtimeconfig.json
+C:\Users\Pain\source\repos\Sea-Battle\bin\Debug\net7.0-windows\Sea-Battle.dll
+C:\Users\Pain\source\repos\Sea-Battle\bin\Debug\net7.0-windows\Sea-Battle.pdb
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea_Battle.Form1.resources
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.csproj.GenerateResource.cache
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.AssemblyInfoInputs.cache
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.AssemblyInfo.cs
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.csproj.CoreCompileInputs.cache
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.dll
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\refint\Sea-Battle.dll
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.pdb
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\Sea-Battle.genruntimeconfig.cache
+C:\Users\Pain\source\repos\Sea-Battle\obj\Debug\net7.0-windows\ref\Sea-Battle.dll
